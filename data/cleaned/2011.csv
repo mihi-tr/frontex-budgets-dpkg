@@ -1,0 +1,387 @@
+Item,Description,Year,Amount
+A-1100,Basic salary,commitment 2009,6683898
+A-1100,Basic salary,payment 2009,6683898
+A-1100,Basic salary,2010 N2,1.09E7
+A-1100,Basic salary,2011,1.41E7
+A-1100,Basic salary,2011 Draft,1.114E7
+A-1101,Family allowances,commitment 2009,583664
+A-1101,Family allowances,payment 2009,583664
+A-1101,Family allowances,2010 N2,700000
+A-1101,Family allowances,2011,1150000
+A-1101,Family allowances,2011 Draft,1132000
+A-1102,Expatriation and foreign-residence allowances,commitment 2009,926463
+A-1102,Expatriation and foreign-residence allowances,payment 2009,926463
+A-1102,Expatriation and foreign-residence allowances,2010 N2,1100000
+A-1102,Expatriation and foreign-residence allowances,2011,1800000
+A-1102,Expatriation and foreign-residence allowances,2011 Draft,1550000
+A-1111,Contract staff,commitment 2009,1921478
+A-1111,Contract staff,payment 2009,1909978
+A-1111,Contract staff,2010 N2,2000000
+A-1111,Contract staff,2011,2800000
+A-1111,Contract staff,2011 Draft,3010000
+A-1112,Seconded national experts,commitment 2009,3282918
+A-1112,Seconded national experts,payment 2009,3272918
+A-1112,Seconded national experts,2010 N2,3600000
+A-1112,Seconded national experts,2011,3670000
+A-1112,Seconded national experts,2011 Draft,4010000
+A-1113,Special advisers,2011 Draft,100000
+A-1130,Insurance against sickness,commitment 2009,244539
+A-1130,Insurance against sickness,payment 2009,244539
+A-1130,Insurance against sickness,2010 N2,370000
+A-1130,Insurance against sickness,2011,485000
+A-1130,Insurance against sickness,2011 Draft,420000
+A-1131,Insurance against accidents and occupational disea,commitment 2009,50986
+A-1131,Insurance against accidents and occupational disea,payment 2009,50986
+A-1131,Insurance against accidents and occupational disea,2010 N2,87000
+A-1131,Insurance against accidents and occupational disea,2011,100000
+A-1131,Insurance against accidents and occupational disea,2011 Draft,90000
+A-1132,Insurance against unemployment,commitment 2009,96139
+A-1132,Insurance against unemployment,payment 2009,96139
+A-1132,Insurance against unemployment,2010 N2,175000
+A-1132,Insurance against unemployment,2011,190000
+A-1132,Insurance against unemployment,2011 Draft,165000
+A-1140,Childbirth and death allowances and grants,commitment 2009,0
+A-1140,Childbirth and death allowances and grants,payment 2009,5000
+A-1140,Childbirth and death allowances and grants,2010 N2,5000
+A-1140,Childbirth and death allowances and grants,2011,5000
+A-1141,Travel expenses for annual leave,commitment 2009,130997
+A-1141,Travel expenses for annual leave,payment 2009,130997
+A-1141,Travel expenses for annual leave,2010 N2,165000
+A-1141,Travel expenses for annual leave,2011,260000
+A-1141,Travel expenses for annual leave,2011 Draft,265000
+A-1150,Overtime,commitment 2009,3000
+A-1150,Overtime,payment 2009,1825
+A-1150,Overtime,2010 N2,25000
+A-1150,Overtime,2011,10000
+A-1150,Overtime,2011 Draft,12000
+A-1180,Travel expenses on taking up duties and at end of,commitment 2009,14315
+A-1180,Travel expenses on taking up duties and at end of,payment 2009,10715
+A-1180,Travel expenses on taking up duties and at end of,2010 N2,15000
+A-1180,Travel expenses on taking up duties and at end of,2011,25000
+A-1180,Travel expenses on taking up duties and at end of,2011 Draft,12000
+A-1181,Installation resettlement and transfer allowances,commitment 2009,135567
+A-1181,Installation resettlement and transfer allowances,payment 2009,135567
+A-1181,Installation resettlement and transfer allowances,2010 N2,200000
+A-1181,Installation resettlement and transfer allowances,2011,270000
+A-1181,Installation resettlement and transfer allowances,2011 Draft,155000
+A-1182,Removal expenses for temporary agents,commitment 2009,61172
+A-1182,Removal expenses for temporary agents,payment 2009,61172
+A-1182,Removal expenses for temporary agents,2010 N2,90000
+A-1182,Removal expenses for temporary agents,2011,150000
+A-1182,Removal expenses for temporary agents,2011 Draft,42000
+A-1183,Temporary daily subsistence allowances for tempora,commitment 2009,144784
+A-1183,Temporary daily subsistence allowances for tempora,payment 2009,134784
+A-1183,Temporary daily subsistence allowances for tempora,2010 N2,130000
+A-1183,Temporary daily subsistence allowances for tempora,2011,270000
+A-1183,Temporary daily subsistence allowances for tempora,2011 Draft,110000
+A-1185,Travel expenses at end of contract,commitment 2009,1000
+A-1185,Travel expenses at end of contract,payment 2009,15000
+A-1185,Travel expenses at end of contract,2010 N2,10000
+A-1185,Travel expenses at end of contract,2011,2000
+A-1190,Salary weightings,commitment 2009,-1200000
+A-1190,Salary weightings,payment 2009,-2270000
+A-1190,Salary weightings,2010 N2,-2270000
+A-1200,Translation and publication of notices,commitment 2009,43415
+A-1200,Translation and publication of notices,payment 2009,12709
+A-1200,Translation and publication of notices,2010 N2,30000
+A-1200,Translation and publication of notices,2011,100000
+A-1200,Translation and publication of notices,2011 Draft,100000
+A-1201,Travel and subsitence costs of applicants,commitment 2009,115000
+A-1201,Travel and subsitence costs of applicants,payment 2009,84915
+A-1201,Travel and subsitence costs of applicants,2010 N2,190000
+A-1201,Travel and subsitence costs of applicants,2011,150000
+A-1201,Travel and subsitence costs of applicants,2011 Draft,60000
+A-1202,Medical examinations,commitment 2009,17000
+A-1202,Medical examinations,payment 2009,9816
+A-1202,Medical examinations,2010 N2,16000
+A-1202,Medical examinations,2011,15000
+A-1202,Medical examinations,2011 Draft,10000
+A-1203,Other recruitment costs,commitment 2009,2200
+A-1203,Other recruitment costs,payment 2009,1538
+A-1203,Other recruitment costs,2010 N2,10000
+A-1203,Other recruitment costs,2011,2000
+A-1203,Other recruitment costs,2011 Draft,3000
+A-1300,Administrative missions,commitment 2009,509400
+A-1300,Administrative missions,payment 2009,466636
+A-1300,Administrative missions,2010 N2,450000
+A-1300,Administrative missions,2011,500000
+A-1300,Administrative missions,2011 Draft,600000
+A-1410,Medical service,commitment 2009,603
+A-1410,Medical service,payment 2009,103
+A-1410,Medical service,2010 N2,70000
+A-1410,Medical service,2011,57000
+A-1410,Medical service,2011 Draft,57000
+A-1430,Other expenditure,commitment 2009,0
+A-1430,Other expenditure,payment 2009,5000
+A-1430,Other expenditure,2010 N2,4000
+A-1430,Other expenditure,2011,4000
+A-1500,Training and information of staff,commitment 2009,235604
+A-1500,Training and information of staff,payment 2009,82886
+A-1500,Training and information of staff,2010 N2,380000
+A-1500,Training and information of staff,2011,400000
+A-1500,Training and information of staff,2011 Draft,380000
+A-1510,Translation and interpretation services,commitment 2009,0
+A-1510,Translation and interpretation services,payment 2009,50000
+A-1510,Translation and interpretation services,2010 N2,20000
+A-1510,Translation and interpretation services,2011,20000
+A-1511,Cost of organising stages,commitment 2009,72000
+A-1511,Cost of organising stages,payment 2009,140000
+A-1511,Cost of organising stages,2010 N2,140000
+A-1512,Supplementary clerical and interim services,commitment 2009,14400
+A-1512,Supplementary clerical and interim services,payment 2009,4319
+A-1512,Supplementary clerical and interim services,2010 N2,50000
+A-1512,Supplementary clerical and interim services,2011,72000
+A-1512,Supplementary clerical and interim services,2011 Draft,72000
+A-1513,Other external services including expenses for Com,commitment 2009,112390
+A-1513,Other external services including expenses for Com,payment 2009,95140
+A-1513,Other external services including expenses for Com,2010 N2,140000
+A-1513,Other external services including expenses for Com,2011,172000
+A-1513,Other external services including expenses for Com,2011 Draft,160000
+A-1600,Special assistance grants,commitment 2009,0
+A-1600,Special assistance grants,2010 N2,5000
+A-1610,Social events,commitment 2009,53294
+A-1610,Social events,payment 2009,37844
+A-1610,Social events,2010 N2,70000
+A-1610,Social events,2011,70000
+A-1610,Social events,2011 Draft,70000
+A-1700,General,commitment 2009,16625
+A-1700,General,payment 2009,14645
+A-1700,General,2010 N2,75000
+A-1700,General,2011,75000
+A-1700,General,2011 Draft,35000
+A-1701,Corporate Identity,commitment 2009,60362
+A-1701,Corporate Identity,payment 2009,51891
+A-1701,Corporate Identity,2010 N2,100000
+A-1701,Corporate Identity,2011,100000
+A-1701,Corporate Identity,2011 Draft,100000
+A-2000,Rent,commitment 2009,2035831
+A-2000,Rent,payment 2009,2005631
+A-2000,Rent,2010 N2,2450000
+A-2000,Rent,2011,3000000
+A-2000,Rent,2011 Draft,3000000
+A-2010,Insurance,commitment 2009,3343
+A-2010,Insurance,payment 2009,3343
+A-2010,Insurance,2010 N2,15000
+A-2010,Insurance,2011,10000
+A-2010,Insurance,2011 Draft,10000
+A-2020,Water gas electricity and heating,commitment 2009,70400
+A-2020,Water gas electricity and heating,payment 2009,56480
+A-2020,Water gas electricity and heating,2010 N2,150000
+A-2020,Water gas electricity and heating,2011,100000
+A-2020,Water gas electricity and heating,2011 Draft,100000
+A-2030,Cleaning and maintenance,commitment 2009,653893
+A-2030,Cleaning and maintenance,payment 2009,578959
+A-2030,Cleaning and maintenance,2010 N2,710000
+A-2030,Cleaning and maintenance,2011,750000
+A-2030,Cleaning and maintenance,2011 Draft,750000
+A-2040,Furnishing of premises,commitment 2009,118642
+A-2040,Furnishing of premises,payment 2009,39951
+A-2040,Furnishing of premises,2010 N2,15000
+A-2040,Furnishing of premises,2011,10000
+A-2040,Furnishing of premises,2011 Draft,10000
+A-2050,Security equipment,commitment 2009,982
+A-2050,Security equipment,payment 2009,982
+A-2050,Security equipment,2010 N2,50000
+A-2050,Security equipment,2011,50000
+A-2050,Security equipment,2011 Draft,50000
+A-2051,Security services,commitment 2009,248354
+A-2051,Security services,payment 2009,43754
+A-2051,Security services,2010 N2,50000
+A-2051,Security services,2011,50000
+A-2051,Security services,2011 Draft,50000
+A-2052,Health and safety at work,commitment 2009,64461
+A-2052,Health and safety at work,payment 2009,32493
+A-2052,Health and safety at work,2010 N2,150000
+A-2052,Health and safety at work,2011,90000
+A-2052,Health and safety at work,2011 Draft,90000
+A-2080,Expenditure preliminary to the rental of immovable property,commitment 2009,0
+A-2090,Other expenditure,commitment 2009,238500
+A-2090,Other expenditure,payment 2009,199700
+A-2090,Other expenditure,2010 N2,5000
+A-2090,Other expenditure,2011,5000
+A-2090,Other expenditure,2011 Draft,5000
+A-2100,Purchase of data processing equipment,commitment 2009,122452
+A-2100,Purchase of data processing equipment,payment 2009,112482
+A-2100,Purchase of data processing equipment,2010 N2,720000
+A-2100,Purchase of data processing equipment,2011,1000000
+A-2100,Purchase of data processing equipment,2011 Draft,1000000
+A-2101,Software,commitment 2009,460468
+A-2101,Software,payment 2009,366848
+A-2101,Software,2010 N2,1576085
+A-2101,Software,2011,1500000
+A-2101,Software,2011 Draft,1500000
+A-2102,Maintenance and repair of data processing equipmen,commitment 2009,351684
+A-2102,Maintenance and repair of data processing equipmen,payment 2009,230100
+A-2102,Maintenance and repair of data processing equipmen,2010 N2,240000
+A-2102,Maintenance and repair of data processing equipmen,2011,500000
+A-2102,Maintenance and repair of data processing equipmen,2011 Draft,500000
+A-2103,Consultancy and studies,commitment 2009,670650
+A-2103,Consultancy and studies,payment 2009,48090
+A-2103,Consultancy and studies,2010 N2,2220000
+A-2103,Consultancy and studies,2011,2000000
+A-2103,Consultancy and studies,2011 Draft,2000000
+A-2110,Telecommunications subscriptions and charges,commitment 2009,291832
+A-2110,Telecommunications subscriptions and charges,payment 2009,242244
+A-2110,Telecommunications subscriptions and charges,2010 N2,625000
+A-2110,Telecommunications subscriptions and charges,2011,425000
+A-2110,Telecommunications subscriptions and charges,2011 Draft,425000
+A-2111,Purchase installation and maintenance of telecommu,commitment 2009,101608
+A-2111,Purchase installation and maintenance of telecommu,payment 2009,1608
+A-2111,Purchase installation and maintenance of telecommu,2010 N2,40000
+A-2200,Technical equipment and installations,commitment 2009,12224
+A-2200,Technical equipment and installations,payment 2009,824
+A-2200,Technical equipment and installations,2010 N2,20000
+A-2200,Technical equipment and installations,2011,15000
+A-2200,Technical equipment and installations,2011 Draft,15000
+A-2210,Furniture,commitment 2009,9745
+A-2210,Furniture,payment 2009,6445
+A-2210,Furniture,2010 N2,100000
+A-2210,Furniture,2011,20000
+A-2210,Furniture,2011 Draft,20000
+A-2231,Maintenance use and repair and other expenditures,commitment 2009,0
+A-2231,Maintenance use and repair and other expenditures,payment 2009,10000
+A-2231,Maintenance use and repair and other expenditures,2010 N2,5000
+A-2231,Maintenance use and repair and other expenditures,2011,5000
+A-2232,Car insurance,commitment 2009,2619
+A-2232,Car insurance,payment 2009,2619
+A-2232,Car insurance,2010 N2,9000
+A-2232,Car insurance,2011,3000
+A-2232,Car insurance,2011 Draft,3000
+A-2233,Fuel,commitment 2009,7000
+A-2233,Fuel,payment 2009,4799
+A-2233,Fuel,2010 N2,20000
+A-2233,Fuel,2011,7000
+A-2233,Fuel,2011 Draft,7000
+A-2250,Library expenses purchase of books subscriptions t,commitment 2009,6225
+A-2250,Library expenses purchase of books subscriptions t,payment 2009,5130
+A-2250,Library expenses purchase of books subscriptions t,2010 N2,15000
+A-2250,Library expenses purchase of books subscriptions t,2011,15000
+A-2250,Library expenses purchase of books subscriptions t,2011 Draft,15000
+A-2300,Stationery and office supplies,commitment 2009,89927
+A-2300,Stationery and office supplies,payment 2009,80687
+A-2300,Stationery and office supplies,2010 N2,200000
+A-2300,Stationery and office supplies,2011,120000
+A-2300,Stationery and office supplies,2011 Draft,120000
+A-2310,Bank charges,commitment 2009,2300
+A-2310,Bank charges,payment 2009,1805
+A-2310,Bank charges,2010 N2,5000
+A-2310,Bank charges,2011,5000
+A-2310,Bank charges,2011 Draft,5000
+A-2311,Exchange-rate losses,commitment 2009,0
+A-2311,Exchange-rate losses,2010 N2,25000
+A-2330,Legal expenses,commitment 2009,0
+A-2330,Legal expenses,2010 N2,20000
+A-2330,Legal expenses,2011 Draft,30000
+A-2331,Damages and compensation,commitment 2009,0
+A-2331,Damages and compensation,2010 N2,10000
+A-2340,Miscellaneous insurance transportation of goods de,commitment 2009,0
+A-2340,Miscellaneous insurance transportation of goods de,2010 N2,20000
+A-2341,Uniforms and working clothes,commitment 2009,16000
+A-2341,Uniforms and working clothes,payment 2009,7393
+A-2341,Uniforms and working clothes,2010 N2,20000
+A-2341,Uniforms and working clothes,2011,20000
+A-2341,Uniforms and working clothes,2011 Draft,20000
+A-2342,Translation services,commitment 2009,244278
+A-2342,Translation services,payment 2009,224278
+A-2342,Translation services,2010 N2,400000
+A-2342,Translation services,2011,300000
+A-2342,Translation services,2011 Draft,300000
+A-2343,Official publications tender publications and repr,commitment 2009,48337
+A-2343,Official publications tender publications and repr,payment 2009,14314
+A-2343,Official publications tender publications and repr,2010 N2,160000
+A-2343,Official publications tender publications and repr,2011,70000
+A-2343,Official publications tender publications and repr,2011 Draft,70000
+A-2344,Petty expenditure,commitment 2009,2000
+A-2344,Petty expenditure,payment 2009,1584
+A-2344,Petty expenditure,2010 N2,25000
+A-2344,Petty expenditure,2011,10000
+A-2344,Petty expenditure,2011 Draft,10000
+A-2350,Communication and information activities,commitment 2009,23494
+A-2350,Communication and information activities,payment 2009,23494
+A-2350,Communication and information activities,2010 N2,25000
+A-2350,Communication and information activities,2011,100000
+A-2350,Communication and information activities,2011 Draft,100000
+A-2400,Postal and delivery charges,commitment 2009,42000
+A-2400,Postal and delivery charges,payment 2009,29288
+A-2400,Postal and delivery charges,2010 N2,80000
+A-2400,Postal and delivery charges,2011,60000
+A-2400,Postal and delivery charges,2011 Draft,100000
+A-2500,Interpretation services and equipment,commitment 2009,178464
+A-2500,Interpretation services and equipment,payment 2009,113138
+A-2500,Interpretation services and equipment,2010 N2,400000
+A-2500,Interpretation services and equipment,2011,200000
+A-2500,Interpretation services and equipment,2011 Draft,200000
+A-2501,Travel and subsistence costs of delegates,commitment 2009,171000
+A-2501,Travel and subsistence costs of delegates,payment 2009,104029
+A-2501,Travel and subsistence costs of delegates,2010 N2,200000
+A-2501,Travel and subsistence costs of delegates,2011,200000
+A-2501,Travel and subsistence costs of delegates,2011 Draft,200000
+A-2502,Other expenditure,commitment 2009,66357
+A-2502,Other expenditure,payment 2009,34888
+A-2502,Other expenditure,2010 N2,120000
+A-2502,Other expenditure,2011,100000
+A-2502,Other expenditure,2011 Draft,100000
+A-2510,Other meetings and visits,commitment 2009,193424
+A-2510,Other meetings and visits,payment 2009,145647
+A-2510,Other meetings and visits,2010 N2,200000
+A-2510,Other meetings and visits,2011,250000
+A-2510,Other meetings and visits,2011 Draft,250000
+A-2600,Auditing,commitment 2009,9698
+A-2600,Auditing,payment 2009,9698
+A-2600,Auditing,2010 N2,50000
+A-2600,Auditing,2011,50000
+A-2600,Auditing,2011 Draft,250000
+A-3000,Operations and pilot projects etc. land borders,commitment 2009,5779564
+A-3000,Operations and pilot projects etc. land borders,payment 2009,3288425
+A-3000,Operations and pilot projects etc. land borders,2010 N2,5250000
+A-3000,Operations and pilot projects etc. land borders,2011,4500000
+A-3000,Operations and pilot projects etc. land borders,2011 Draft,4500000
+A-3010,Operations and pilot projects etc. sea borders,commitment 2009,3.43503E7
+A-3010,Operations and pilot projects etc. sea borders,payment 2009,2.3087784E7
+A-3010,Operations and pilot projects etc. sea borders,2010 N2,2.6870843E7
+A-3010,Operations and pilot projects etc. sea borders,2011,2.374E7
+A-3010,Operations and pilot projects etc. sea borders,2011 Draft,2.404E7
+A-3020,Operations and pilot projects etc. air borders,commitment 2009,2623731
+A-3020,Operations and pilot projects etc. air borders,payment 2009,1040207
+A-3020,Operations and pilot projects etc. air borders,2010 N2,2650000
+A-3020,Operations and pilot projects etc. air borders,2011,2200000
+A-3020,Operations and pilot projects etc. air borders,2011 Draft,2200000
+A-3050,Return co-operation,commitment 2009,5496268
+A-3050,Return co-operation,payment 2009,3863968
+A-3050,Return co-operation,2010 N2,9341000
+A-3050,Return co-operation,2011,9341000
+A-3050,Return co-operation,2011 Draft,9891000
+A-3100,Risk analysis,commitment 2009,1933626
+A-3100,Risk analysis,payment 2009,559518
+A-3100,Risk analysis,2010 N2,1800000
+A-3100,Risk analysis,2011,1400000
+A-3100,Risk analysis,2011 Draft,1400000
+A-3110,FSC,commitment 2009,1525086
+A-3110,FSC,payment 2009,107637
+A-3110,FSC,2010 N2,450000
+A-3110,FSC,2011,1400000
+A-3110,FSC,2011 Draft,1400000
+A-3200,Training,commitment 2009,5426086
+A-3200,Training,payment 2009,1499311
+A-3200,Training,2010 N2,7200000
+A-3200,Training,2011,5500000
+A-3200,Training,2011 Draft,5700000
+A-3300,Research and development,commitment 2009,1313377
+A-3300,Research and development,payment 2009,105316
+A-3300,Research and development,2010 N2,1400000
+A-3300,Research and development,2011,1032000
+A-3300,Research and development,2011 Draft,1032000
+A-3400,Pooled Resources network,commitment 2009,891811
+A-3400,Pooled Resources network,payment 2009,597899
+A-3400,Pooled Resources network,2010 N2,3900000
+A-3400,Pooled Resources network,2011,1000000
+A-3400,Pooled Resources network,2011 Draft,1000000
+A-3500,Operational Missions not linked to a project,commitment 2009,150000
+A-3500,Operational Missions not linked to a project,payment 2009,140249
+A-3500,Operational Missions not linked to a project,2010 N2,150000
+A-3500,Operational Missions not linked to a project,2011,150000
+A-3500,Operational Missions not linked to a project,2011 Draft,150000
+A-3510,IT services for Operational activities,commitment 2009,0
+A-3510,IT services for Operational activities,payment 2009,2600000
+A-3510,IT services for Operational activities,2010 N2,2000000
+A-3510,IT services for Operational activities,2011,2000000

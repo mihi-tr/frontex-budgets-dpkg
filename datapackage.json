@@ -1,0 +1,41 @@
+{
+  "name":"frontex-budgets-2005-2013",
+  "title":"FRONTEX Budgets 2005-2013",
+  "description":"The Frontex budgets, scraped from various PDFs on the frontex website",
+  "sources":[{
+    "name":"FRONTEX",
+    "web":"http://frontex.europa.eu/about-frontex/governance-documents/"
+    }],
+  "resources":[{
+    "name":"Frontex-Budgets",
+    "path":"data/Frontex-Budget-2005-2013.csv",
+    "schema": {
+      "fields":[
+        {"id":"file",
+         "type":"string"
+         },
+        {"id":"Heading",
+         "type":"string"},
+        {"id":"Heading-Label",
+         "type":"string"},
+        {"id":"Chapter",
+         "type":"string"},
+        {"id":"Chapter-Label",
+         "type":"string"},
+        {"id":"Article",
+         "type":"string"},
+        {"id":"Article-Label",
+         "type":"string"},
+        {"id":"Item",
+         "type":"string"},
+        {"id":"Description",
+         "type":"string"},
+        {"id":"Year",
+         "type":"date",
+         "format":"yyyy"},
+        {"id":"Amount",
+          "type":"number"}
+         
+         ]}}]}
+         
+
