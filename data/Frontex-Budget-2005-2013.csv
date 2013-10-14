@@ -526,9 +526,7 @@ File,Heading,Heading-Label,Chapter,Chapter-Label,Article,Article-Label,Item,Desc
 2007.csv,A-2,Administrative Expenditure,A-20,Rental of Buildings,A-204,Furnishing of Premises,,Furnishing of premises,2005,55000
 2007.csv,A-2,Administrative Expenditure,A-20,Rental of Buildings,A-204,Furnishing of Premises,,Furnishing of premises,2006,100000
 2007.csv,A-2,Administrative Expenditure,A-20,Rental of Buildings,A-205,Security of Buildings and Persons,,Security of buildings and persons,2005,235000
-2007.csv,A-2,Administrative Expenditure,A-20,Rental of Buildings,A-205,Security of Buildings and Persons,,Security of buildings and persons,2006,100000
 2007.csv,A-2,Administrative Expenditure,A-20,Rental of Buildings,A-205,Security of Buildings and Persons,,Security of buildings and persons,2005,235000
-2007.csv,A-2,Administrative Expenditure,A-20,Rental of Buildings,A-205,Security of Buildings and Persons,,Security of buildings and persons,2006,100000
 2007.csv,A-2,Administrative Expenditure,A-20,Rental of Buildings,A-208,Other Expenditure,,Expenditure preliminary to the rental of immovable property,2006,8000
 2007.csv,A-2,Administrative Expenditure,A-21,Data Processing and Telecommunication,A-210,Costs of Equipment and Data Processing Related Expenditure,,Costs of equipment and data-processing related expenditure,2005,100000
 2007.csv,A-2,Administrative Expenditure,A-21,Data Processing and Telecommunication,A-210,Costs of Equipment and Data Processing Related Expenditure,,Costs of equipment and data-processing related expenditure,2006,478000
@@ -549,7 +547,6 @@ File,Heading,Heading-Label,Chapter,Chapter-Label,Article,Article-Label,Item,Desc
 2007.csv,A-2,Administrative Expenditure,A-25,Non-operational Meetings,A-250,Management and Board Meetings,,Management Board meetings,2005,100000
 2007.csv,A-2,Administrative Expenditure,A-25,Non-operational Meetings,A-250,Management and Board Meetings,,Management Board meetings,2006,234000
 2007.csv,A-2,Administrative Expenditure,A-25,Non-operational Meetings,A-251,Other Meetings and Visits,,Other meetings and visits,2006,10000
-2007.csv,A-3,Operational Activities,A-30,Joint Operations,A-300,Operations and Pilot Projects: Land Borders,,"Operations and pilot projects etc., land borders",2006,910000
 2007.csv,A-3,Operational Activities,A-30,Joint Operations,A-300,Operations and Pilot Projects: Land Borders,,"Operations and pilot projects etc., land borders",2006,910000
 2007.csv,A-3,Operational Activities,A-30,Joint Operations,A-301,Operation and Pilot Projects: Sea borders,,"Operations and pilot projects etc., sea borders",2006,9229300
 2007.csv,A-3,Operational Activities,A-30,Joint Operations,A-302,Operations and Pilot Projects: Air Borders,,"Operations and pilot projects etc., air borders",2006,315000
